@@ -1,11 +1,13 @@
 {
-	"posts": [
-    { "id": 1, 
-      "DeviceEUID": "0004A30B001B618C", 
-      "DeviceName": "Sensor_Stirling_01" 
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	"posts": 
+		[{ 
+			"id": 1, 
+		   	"DeviceEUID": "0004A30B001B618C",
+		   	"DeviceName": "Sensor_Stirling_01" 
+		}],
+	
+	"profile": 
+		{
+    			"name": "typicode"
+		}
 }
