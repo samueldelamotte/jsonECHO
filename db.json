@@ -1,4 +1,9 @@
 {
-  DeviceEUID:"0004A30B001B618C",
-  DeviceName:"sensor_stirling_01"
+  "posts": [
+    {
+      "id": 1,
+      "DeviceEUID":"0004A30B001B618C",
+      "DeviceName":"sensor_stirling_01"
+    }
+  ]
 }
