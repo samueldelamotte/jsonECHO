@@ -2,8 +2,8 @@
 	"posts": 
 		[{ 
 			"id": 1, 
-		   	"DeviceEUID": "0004A30B001B618C",
-		   	"DeviceName": "Sensor_Stirling_01" 
+		   	"DeviceEUID": "0004A30B001B618D",
+		   	"DeviceName": "Sensor_Stirling_02" 
 		}],
 	
 	"profile": 
